@@ -1,2 +1,3 @@
 # Analyze_Douban_Top250_Classic_Films
-Achieved by Python Web Crawler, Flask, Echarts and WordCloud
+This project needs to work with Python3.10.
+The starting point is app.py.
